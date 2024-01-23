@@ -44,7 +44,7 @@ For Meta-World ML1 experiment, run:
 ```
 run_ml1_1.sh
 ```
-To run different tasks, modify "env_name" in `./configs/cpearl-ml1-1.json` as well as "datadirs" in `run_ml1.sh`.
+To run different tasks, modify "env_name" in `./configs/cpearl-ml1-1.json` as well as "datadirs" in `run_ml1_1.sh`.
 
 For point-robot and cheetah-vel:
 ```
