@@ -19,7 +19,9 @@ To install it, follow the same procedure as for MuJoCo200. To switch between dif
 ```
 export MUJOCO_PY_MJPRO_PATH=~/.mujoco/mjpro${VERSION_NUM}
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:~/.mujoco/mjpro${VERSION_NUM}/bin
-``` 
+```
+
+In addition to the aforementioned steps, you will also need to download the specific version of metaworld associated with commit b0b66d1f56bbe6c1a4f3df0eb64a6dc3c38429b3.
 
 ## Data Generation
 Example of training policies and generating trajectories on multiple tasks:
