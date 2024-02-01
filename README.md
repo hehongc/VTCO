@@ -1,4 +1,4 @@
-# Code for Inter-level and Inter-level Contexts for Generalization in Offline Meta-Reinforcement Learning, ICML 2024
+# Code for Inter-level and Intra-level Contexts for Generalization in Offline Meta-Reinforcement Learning, ICML 2024
 
 ## Installation
 To install locally, you will need to first install [MuJoCo](https://www.roboti.us/index.html). 
