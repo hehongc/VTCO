@@ -1,4 +1,4 @@
-# Code for Offline Meta-Reinforcement Learning with Tuple Identification and Temporal Tuple Relationships, ICML 2024
+# Code for Inter and Inter-level Contexts for Generalization in Offline Meta-ReinforcementLearning, ICML 2024
 
 ## Installation
 To install locally, you will need to first install [MuJoCo](https://www.roboti.us/index.html). 
